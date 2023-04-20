@@ -1,4 +1,4 @@
-## [PiClick: Target Pick Out for effective Click-based Interactive Segmentation](https://arxiv.org/abs/xxxx.xxxxx)
+## [PiClick: Mitigating Intention Ambiguity for Efficient Click-based Interactive Segmentation](https://arxiv.org/abs/xxxx.xxxxx)
 
 <p align="center">
   <img src="./assets/piclick_architecture.png" alt="drawing", width="650"/>
@@ -69,7 +69,7 @@ you want as long as you include the original copyright and license notice in any
 
 ```bibtex
 @article{yan2023piclick,
-  title={PiClick: Target Pick Out for effective Click-based Interactive Segmentation},
+  title={PiClick: Mitigating Intention Ambiguity for Efficient Click-based Interactive Segmentation},
   author={Cilin Yan and Haochen Wang, Jie Liu, Xiaolong Jiang, Yao Hu, Xu Tang, Guoliang Kang, Efstratios Gavves},
   journal={arXiv preprint arXiv:xxx.xxxxx},
   year={2023}
