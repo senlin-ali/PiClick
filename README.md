@@ -65,17 +65,6 @@ Other datasets: [RITM Github](https://github.com/saic-vul/ritm_interactive_segme
 The code is released under the MIT License. It is a short, permissive software license. Basically, you can do whatever
 you want as long as you include the original copyright and license notice in any copy of the software/source.
 
-## Citation
-
-```bibtex
-@article{yan2023piclick,
-  title={PiClick: Mitigating Intention Ambiguity for Efficient Click-based Interactive Segmentation},
-  author={Cilin Yan and Haochen Wang, Jie Liu, Xiaolong Jiang, Yao Hu, Xu Tang, Guoliang Kang, Efstratios Gavves},
-  journal={arXiv preprint arXiv:xxx.xxxxx},
-  year={2023}
-}
-```
-
 ## Acknowledgement
 
 Our project is developed based on 
